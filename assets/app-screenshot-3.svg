@@ -1,0 +1,35 @@
+<svg width="200" height="400" viewBox="0 0 200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect width="200" height="400" rx="25" fill="#1F2937"/>
+  <rect x="5" y="30" width="190" height="340" rx="15" fill="white"/>
+  
+  <!-- Header -->
+  <rect x="10" y="35" width="180" height="50" fill="#27AE60"/>
+  <text x="20" y="55" font-family="system-ui" font-size="12" font-weight="bold" fill="white">Order Tracking</text>
+  <text x="20" y="70" font-family="system-ui" font-size="9" fill="white">Order #12345</text>
+  
+  <!-- Map Area -->
+  <rect x="15" y="95" width="170" height="120" rx="8" fill="#F3F4F6"/>
+  <text x="85" y="155" font-family="system-ui" font-size="10" fill="#6B7280">🗺️ Live Map</text>
+  
+  <!-- Driver Info -->
+  <rect x="20" y="225" width="160" height="50" rx="8" fill="#B9F6CA"/>
+  <text x="30" y="240" font-family="system-ui" font-size="9" font-weight="bold" fill="#1F2937">🚗 John is delivering</text>
+  <text x="30" y="255" font-family="system-ui" font-size="8" fill="#6B7280">Arriving in 8 minutes</text>
+  <text x="30" y="265" font-family="system-ui" font-size="8" fill="#27AE60">📞 Call driver</text>
+  
+  <!-- Order Status -->
+  <text x="20" y="295" font-family="system-ui" font-size="11" font-weight="bold" fill="#1F2937">Order Status</text>
+  
+  <circle cx="30" cy="310" r="5" fill="#27AE60"/>
+  <text x="45" y="315" font-family="system-ui" font-size="9" fill="#1F2937">Order confirmed ✓</text>
+  
+  <circle cx="30" cy="330" r="5" fill="#27AE60"/>
+  <text x="45" y="335" font-family="system-ui" font-size="9" fill="#1F2937">Preparing order ✓</text>
+  
+  <circle cx="30" cy="350" r="5" fill="#27AE60"/>
+  <text x="45" y="355" font-family="system-ui" font-size="9" fill="#1F2937">Out for delivery 🚗</text>
+  
+  <circle cx="30" cy="370" r="5" fill="#E5E7EB"/>
+  <text x="45" y="375" font-family="system-ui" font-size="9" fill="#9CA3AF">Delivered</text>
+</svg>

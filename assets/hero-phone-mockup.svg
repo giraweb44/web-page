@@ -1,0 +1,46 @@
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect x="10" y="10" width="280" height="580" rx="40" fill="#1F2937"/>
+  <rect x="20" y="60" width="260" height="480" rx="20" fill="white"/>
+  
+  <!-- Status Bar -->
+  <rect x="30" y="70" width="240" height="30" fill="#F9FAFB"/>
+  <text x="40" y="88" font-family="system-ui" font-size="12" fill="#6B7280">9:41</text>
+  <text x="230" y="88" font-family="system-ui" font-size="12" fill="#6B7280">100%</text>
+  
+  <!-- App Header -->
+  <rect x="30" y="110" width="240" height="60" fill="#27AE60"/>
+  <text x="40" y="135" font-family="system-ui" font-size="14" font-weight="bold" fill="white">Waslet</text>
+  <text x="40" y="155" font-family="system-ui" font-size="12" fill="white">Delivery fast. Fresh. Nearby.</text>
+  
+  <!-- Search Bar -->
+  <rect x="40" y="180" width="220" height="40" rx="20" fill="#F3F4F6"/>
+  <text x="50" y="202" font-family="system-ui" font-size="12" fill="#9CA3AF">Search stores & items...</text>
+  
+  <!-- Category Icons -->
+  <rect x="40" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
+  <text x="60" y="270" font-family="system-ui" font-size="10" fill="#27AE60">🍕</text>
+  
+  <rect x="100" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
+  <text x="120" y="270" font-family="system-ui" font-size="10" fill="#27AE60">🥬</text>
+  
+  <rect x="160" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
+  <text x="180" y="270" font-family="system-ui" font-size="10" fill="#27AE60">💄</text>
+  
+  <rect x="220" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
+  <text x="240" y="270" font-family="system-ui" font-size="10" fill="#27AE60">🏠</text>
+  
+  <!-- Store Cards -->
+  <rect x="40" y="310" width="220" height="80" rx="12" fill="white" stroke="#E5E7EB"/>
+  <text x="50" y="330" font-family="system-ui" font-size="14" font-weight="bold" fill="#1F2937">Fresh Market</text>
+  <text x="50" y="350" font-family="system-ui" font-size="11" fill="#6B7280">Groceries • 15 min delivery</text>
+  <text x="50" y="370" font-family="system-ui" font-size="11" fill="#27AE60">⭐ 4.8 • Free delivery</text>
+  
+  <rect x="40" y="400" width="220" height="80" rx="12" fill="white" stroke="#E5E7EB"/>
+  <text x="50" y="420" font-family="system-ui" font-size="14" font-weight="bold" fill="#1F2937">Beauty Corner</text>
+  <text x="50" y="440" font-family="system-ui" font-size="11" fill="#6B7280">Cosmetics • 20 min delivery</text>
+  <text x="50" y="460" font-family="system-ui" font-size="11" fill="#27AE60">⭐ 4.9 • New arrival</text>
+  
+  <!-- Home Indicator -->
+  <rect x="130" y="570" width="40" height="4" rx="2" fill="#9CA3AF"/>
+</svg>
