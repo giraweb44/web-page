@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#B9F6CA"/>
+  
+  <!-- Logo Circle -->
+  <circle cx="300" cy="315" r="80" fill="#27AE60"/>
+  <path d="M260 315L290 345L340 285" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Main Text -->
+  <text x="450" y="280" font-family="system-ui" font-size="48" font-weight="bold" fill="#1F2937">Waslet</text>
+  <text x="450" y="330" font-family="system-ui" font-size="32" fill="#6B7280">Fast delivery of food, groceries & cosmetics</text>
+  <text x="450" y="380" font-family="system-ui" font-size="24" fill="#27AE60">Download on Google Play</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="1000" cy="150" r="40" fill="#27AE60" opacity="0.3"/>
+  <circle cx="1100" cy="400" r="60" fill="#27AE60" opacity="0.2"/>
+  <circle cx="150" cy="100" r="30" fill="#27AE60" opacity="0.4"/>
+</svg>
