@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360" height="720" viewBox="0 0 360 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">App screen mockup – Tracking</title>
+  <rect x="10" y="10" width="340" height="700" rx="36" fill="#111827"/>
+  <rect x="20" y="20" width="320" height="680" rx="28" fill="#ffffff"/>
+  <rect x="50" y="42" width="260" height="12" rx="6" fill="#e5e7eb"/>
+  <rect x="30" y="74" width="300" height="44" rx="12" fill="#f0fdf4"/>
+  <rect x="30" y="140" width="300" height="300" rx="20" fill="#ecfeff"/>
+  <circle cx="90" cy="200" r="8" fill="#27AE60"/>
+  <circle cx="260" cy="360" r="8" fill="#ef4444"/>
+  <path d="M90 200 C130 240, 170 280, 210 320 S 260 360, 260 360" stroke="#10b981" stroke-width="4" fill="none" stroke-dasharray="6 6"/>
+  <rect x="30" y="460" width="300" height="120" rx="16" fill="#f9fafb"/>
+  <rect x="44" y="480" width="180" height="16" rx="8" fill="#9ca3af"/>
+  <rect x="44" y="506" width="220" height="12" rx="6" fill="#d1d5db"/>
+  <rect x="44" y="530" width="150" height="12" rx="6" fill="#d1d5db"/>
+</svg>
