@@ -9,7 +9,13 @@
   <text x="230" y="88" font-family="system-ui" font-size="12" fill="#6B7280">100%</text>
   
   <!-- App Header -->
-  <rect x="30" y="110" width="240" height="60" fill="#27AE60"/>
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C851"/>
+      <stop offset="100%" style="stop-color:#00A844"/>
+    </linearGradient>
+  </defs>
+  <rect x="30" y="110" width="240" height="60" fill="url(#headerGradient)"/>
   <text x="40" y="135" font-family="system-ui" font-size="14" font-weight="bold" fill="white">Waslet</text>
   <text x="40" y="155" font-family="system-ui" font-size="12" fill="white">Delivery fast. Fresh. Nearby.</text>
   
@@ -18,17 +24,17 @@
   <text x="50" y="202" font-family="system-ui" font-size="12" fill="#9CA3AF">Search stores & items...</text>
   
   <!-- Category Icons -->
-  <rect x="40" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
-  <text x="60" y="270" font-family="system-ui" font-size="10" fill="#27AE60">🍕</text>
+  <rect x="40" y="240" width="50" height="50" rx="25" fill="#E8F5E8"/>
+  <text x="60" y="270" font-family="system-ui" font-size="10" fill="#00C851">🍕</text>
   
-  <rect x="100" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
-  <text x="120" y="270" font-family="system-ui" font-size="10" fill="#27AE60">🥬</text>
+  <rect x="100" y="240" width="50" height="50" rx="25" fill="#E8F5E8"/>
+  <text x="120" y="270" font-family="system-ui" font-size="10" fill="#00C851">🥬</text>
   
-  <rect x="160" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
-  <text x="180" y="270" font-family="system-ui" font-size="10" fill="#27AE60">💄</text>
+  <rect x="160" y="240" width="50" height="50" rx="25" fill="#E8F5E8"/>
+  <text x="180" y="270" font-family="system-ui" font-size="10" fill="#00C851">💄</text>
   
-  <rect x="220" y="240" width="50" height="50" rx="25" fill="#B9F6CA"/>
-  <text x="240" y="270" font-family="system-ui" font-size="10" fill="#27AE60">🏠</text>
+  <rect x="220" y="240" width="50" height="50" rx="25" fill="#E8F5E8"/>
+  <text x="240" y="270" font-family="system-ui" font-size="10" fill="#00C851">🏠</text>
   
   <!-- Store Cards -->
   <rect x="40" y="310" width="220" height="80" rx="12" fill="white" stroke="#E5E7EB"/>
