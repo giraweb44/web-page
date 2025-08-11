@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110" height="20" viewBox="0 0 110 20" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="5 star rating">
+  <defs>
+    <symbol id="s" viewBox="0 0 20 20">
+      <path d="M10 1.5l2.59 5.26 5.81.86-4.2 4.09.99 5.78L10 15.9 4.81 18.5l.99-5.78-4.2-4.09 5.81-.86L10 1.5z" fill="#27AE60"/>
+    </symbol>
+  </defs>
+  <use href="#s" x="0" y="0"/>
+  <use href="#s" x="22" y="0"/>
+  <use href="#s" x="44" y="0"/>
+  <use href="#s" x="66" y="0"/>
+  <use href="#s" x="88" y="0"/>
+</svg>
